@@ -55,7 +55,7 @@
 ## Casos de prueba de ejemplo
 | Entradas | Salidas |
 |:---------|:--------|
-| `3`<br>`1`<br>`2`  | `3, 2, 1` |
+| `3`<br>`1`<br>`2`  | `3 2 1` |
 
 ## Rúbrica
 - Presentación: 20%
