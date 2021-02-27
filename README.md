@@ -3,7 +3,7 @@
 ## Ejercicio: Ordenar tres números
 
 ## Objetivos
-- Formular una solución efectiva a un problema que incorpora `<recursion>, <user-defined functions>, <iteration>, <conditionals>`.
+- Formular una solución efectiva a un problema que incorpora estructuras de decisión.
 - Interpretar adecuadamente los requisitos de solución de un problema a partir de su descripcion en lenguaje natural.
 - Generar, a partir del análisis del problema:
     - La identificación correcta de las entradas y salidas requeridas, y
@@ -11,8 +11,6 @@
 - Elaborar un diagrama de flujo que muestre la lógica del algoritmo.
 - Codificar el algoritmo en un programa correcto de Python.
 - Identificar y ejecutar los casos de prueba pertinentes y suficientes para verificar la funcionalidad de la solución propuesta.
-
-- Recognize, Identify, Select, Analyze, Differentiate, Distinguish, Diagram, Examine, Outline, Subdivide, Understand, Demonstrate, Illustrate, Represent, Interpret, Evaluate, Apply, Assess, Chart, Construct, Develop, Implement, Prepare, Provide, Compute, Contribute, Determine, Establish, Include, Produce, Show, Combine, Design, Make, Plan, Compose, Create, Devise, Formulate, 
 
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
@@ -29,7 +27,6 @@
   Segundo número: 1
   Tercer número: 2
   Números ordenados: 3, 2, 1
-  <format example>
   ```
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
@@ -50,8 +47,6 @@
   
 ## Entrega
 1. Completa este y el resto de los ejercicios y compila, para cada ejercicio, el enunciado, análisis, diagrama de flujo y código, en un informe tal como se describe en los [requisitos para entrega de tareas](https://canvas.iteso.mx/courses/12856/modules/items/418369) en Canvas. También los puedes consultar [aquí](/report/report_example.pdf). No olvides incluir portada y conclusiones.
-
-1. Complete and submit your program as outlined in this [instructional video](https://youtu.be/SrJ_c8S1_D8).
 
 2. Agrega el diagrama de flujo a la carpeta [`flowchart`](/flowchart) (puedes ver un [ejemplo de cómo se hace](https://youtu.be/oy5nhA7QpNI)).
 
