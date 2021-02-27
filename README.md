@@ -26,7 +26,7 @@
   Primer número: 3
   Segundo número: 1
   Tercer número: 2
-  Números ordenados: 3, 2, 1
+  Números ordenados: 3 2 1
   ```
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
