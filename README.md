@@ -1,6 +1,6 @@
-# `Nombre del tema`
+# Estructuras de decisión
 
-## Ejercicio: `<Título del ejercicio>`
+## Ejercicio: Ordenar tres números
 
 ## Objetivos
 - Formular una solución efectiva a un problema que incorpora `<recursion>, <user-defined functions>, <iteration>, <conditionals>`.
@@ -19,12 +19,16 @@
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
     - Puedes ver un ejemplo de como subir diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
-- **Diseña un programa para `<...>`**
+- **Diseña un programa para ordenar tres números de mayor a menor**.
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
-- Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas `<user prompt> <output> <file>`:
+- Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
+  Primer número: 3
+  Segundo número: 1
+  Tercer número: 2
+  Números ordenados: 3, 2, 1
   <format example>
   ```
   
@@ -56,9 +60,7 @@
 ## Casos de prueba de ejemplo
 | Entradas | Salidas |
 |:---------|:--------|
-| `entrada11`<br>`entrada12` | `salida11`<br>`salida12`<br>`salida13` |
-| `entrada21` | `salida21`<br>`salida22` |
-| `entrada31`<br>`entrada32`<br>`entrada33`  | `salida21`<br>`salida22` |
+| `3`<br>`1`<br>`2`  | `3, 2, 1` |
 
 ## Rúbrica
 - Presentación: 20%
