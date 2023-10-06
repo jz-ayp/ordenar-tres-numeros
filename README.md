@@ -7,7 +7,7 @@
 
 - **Diseña un programa para ordenar tres números de mayor a menor** utilizando estructuras de decisión `if`.
 
-- Codifica tu solución en el archivo [`ordenar_3.py`](/ordenar_3.py).
+- Codifica tu solución en el archivo [`ordenar3.py`](/ordenar3.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```

@@ -3,7 +3,7 @@
     on:
       push:
         paths:
-          - 'ordenar_3.py'
+          - 'ordenar3.py'
           - '.github/classroom/autograding.json'
 
     jobs:
